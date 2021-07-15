@@ -1,6 +1,6 @@
 # app_orcamentoPessoal
 
-Um aplicatico usando HTML, CSS e JavaScript para fazer as despesas pessoais como, por exemplo, gastos em saúde, lazer, educação e outros. 
+Um aplicatico usando HTML, CSS e JavaScript para fazer as despesas pessoais como, por exemplo, gastos em saúde, lazer, educação e outros, com uma tela de cadastro e outra com tela de consulta para ver os cadastros.
 
 ![image](https://user-images.githubusercontent.com/65344248/125789747-ae796ec6-d7b1-46ad-812e-76ddfabcae42.png)
 
